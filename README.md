@@ -23,6 +23,5 @@ Projects I'm making
 
 
 <!---
-AAR2020advik/AAR2020advik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This website's README original copy was made in Github by AAR2020advik. 
 --->
